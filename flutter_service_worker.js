@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "bbd0d53a66d35f6948a8791fea5fd857",
-"index.html": "afa5e2a781a24cbdb95c3de9ba5157bb",
-"/": "afa5e2a781a24cbdb95c3de9ba5157bb",
-"main.dart.js": "8f23f88fb832c8810b192d400c299b0e",
-"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
+"index.html": "0a3a8ab51633af2cad0c1d74fc0c23f7",
+"/": "0a3a8ab51633af2cad0c1d74fc0c23f7",
+"main.dart.js": "25ae06b9c683667855d7b821a909eae8",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -27,11 +26,7 @@ const RESOURCES = {
 "assets/assets/images/avatar_5.png": "9c09d8d192579099718a648b6a23ce4d",
 "assets/assets/images/avatar_4.png": "c121d77642e9d3fe0ee1737098b11559",
 "assets/assets/fonts/Nunito-ExtraBold.ttf": "78bf361d456e45b4ba0ab9731ffa293a",
-"assets/assets/fonts/Nunito-Regular.ttf": "5f444b61c541a4b329d8b16841b4de96",
-"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
-"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
-"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
-"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
+"assets/assets/fonts/Nunito-Regular.ttf": "5f444b61c541a4b329d8b16841b4de96"
 };
 
 // The application shell files that are downloaded before a service worker can
